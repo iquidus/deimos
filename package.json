@@ -1,0 +1,29 @@
+{
+  "name": "deimos",
+  "version": "1.0.0",
+  "description": "manage gubiq nodes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iquidus/deimos.git"
+  },
+  "author": "Luke Williams",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iquidus/deimos/issues"
+  },
+  "homepage": "https://github.com/iquidus/deimos#readme",
+  "dependencies": {
+    "compare-versions": "^3.0.1",
+    "jsonfile": "^2.4.0",
+    "jsonminify": "^0.4.1",
+    "nanotimer": "^0.3.14",
+    "progress": "^2.0.0",
+    "request": "^2.81.0",
+    "web3": "^0.18.4",
+    "wget-improved": "^1.4.0"
+  }
+}

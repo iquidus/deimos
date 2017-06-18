@@ -1,0 +1,13 @@
+/*
+  This file must be valid JSON. But comments are allowed
+
+  Please edit config.json, not config.json.template
+*/
+{
+  "web3": {
+    "port": 8588,
+    "host": "localhost"
+  },
+  "autoUpdate": true,
+  "verbose": true
+}
